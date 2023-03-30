@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/baumb/Desktop/coding/github_projects/Library_App/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0   -o CMakeFiles/wish.dir/client.cpp.o -c /Users/baumb/Desktop/coding/github_projects/Library_App/client.cpp",
+  "file": "/Users/baumb/Desktop/coding/github_projects/Library_App/client.cpp"
+},
+{
+  "directory": "/Users/baumb/Desktop/coding/github_projects/Library_App/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0   -o CMakeFiles/wish.dir/wish_function.cpp.o -c /Users/baumb/Desktop/coding/github_projects/Library_App/wish_function.cpp",
+  "file": "/Users/baumb/Desktop/coding/github_projects/Library_App/wish_function.cpp"
+}
+]

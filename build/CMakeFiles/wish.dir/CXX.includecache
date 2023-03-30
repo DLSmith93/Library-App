@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baumb/Desktop/coding/github_projects/Library_App/client.cpp
+wishlist.h
+/Users/baumb/Desktop/coding/github_projects/Library_App/wishlist.h
+
+/Users/baumb/Desktop/coding/github_projects/Library_App/wishlist.h
+iostream
+-
+stdlib.h
+-
+cctype
+-
+cstring
+-
+fstream
+-
+string
+-
+
